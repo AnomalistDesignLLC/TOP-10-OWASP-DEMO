@@ -12662,11 +12662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
+      "projectUniqueName": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
       "projectName": "A1 - Injection",
-      "projectPath": "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
+      "projectPath": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
       "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\obj\\",
+      "outputPath": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",

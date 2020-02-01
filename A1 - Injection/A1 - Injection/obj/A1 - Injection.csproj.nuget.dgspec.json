@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj": {}
+    "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj": {
+    "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
+        "projectUniqueName": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
         "projectName": "A1 - Injection",
-        "projectPath": "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
+        "projectPath": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\A1 - Injection.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ken\\Desktop\\owasp-demos\\A1 - Injection\\A1 - Injection\\obj\\",
+        "outputPath": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Injection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
