@@ -1,0 +1,33 @@
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\A1 - Injection.deps.json
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\A1 - Injection.runtimeconfig.json
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\A1 - Injection.runtimeconfig.dev.json
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\A1 - Injection.dll
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\A1 - Injection.pdb
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\A1 - Injection.Views.dll
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\bin\Debug\netcoreapp2.1\A1 - Injection.Views.pdb
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.csprojAssemblyReference.cache
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.RazorAssemblyInfo.cache
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.RazorAssemblyInfo.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.AssemblyInfoInputs.cache
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.AssemblyInfo.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.TagHelpers.input.cache
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.TagHelpers.output.cache
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.RazorCoreGenerate.cache
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.RazorTargetAssemblyInfo.cache
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.RazorTargetAssemblyInfo.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.Views.pdb
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.dll
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.pdb
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\A1 - Injection.csproj.CopyComplete
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\Demo1\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\owasp-demos\A1 - Injection\A1 - Injection\obj\Debug\netcoreapp2.1\Razor\Views\Demo2\Index.cshtml.g.cs
