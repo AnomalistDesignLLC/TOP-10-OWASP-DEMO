@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using A1___Injection.Database;
 using A1___Injection.Models;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace A1___Injection.Controllers
 {
@@ -76,13 +78,16 @@ namespace A1___Injection.Controllers
         }
 
         [HttpGet("RecreateDatabase")]
-        public async Task<ActionResult> RecreateDatabase()
+        public IActionResult RecreateDatabase()
         {
-            await _context.Database.EnsureDeletedAsync();
-
-            await _context.Database.MigrateAsync();
-            await _context.Database.EnsureCreatedAsync();
-            await DbInitializer.Initialize(_context);
+            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
+            using (SqlConnection con = new SqlConnection(connection))
+            {
+                con.Open();
+                SqlCommand cmd = new SqlCommand("reCreateStudent", con) { CommandType = CommandType.StoredProcedure };
+                cmd.ExecuteNonQuery();
+                con.Close();
+            }
 
             return RedirectToAction("Index");
         }

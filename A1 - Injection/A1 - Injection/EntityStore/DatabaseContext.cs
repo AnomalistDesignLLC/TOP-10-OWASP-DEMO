@@ -17,6 +17,7 @@ namespace A1___Injection.Database
         public DbSet<AuditTb> AuditTb { get; set; }
         public DbSet<Comments> Comments { get; set; }
         public DbSet<StockTb> StockTb { get; set; }
+        public DbSet<BankAccount> BankAccount { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -26,6 +27,7 @@ namespace A1___Injection.Database
             modelBuilder.Entity<AuditTb>().ToTable("AuditTb");
             modelBuilder.Entity<Comments>().ToTable("Comments");
             modelBuilder.Entity<StockTb>().ToTable("StockTb");
+            modelBuilder.Entity<BankAccount>().ToTable("BankAccount");
         }
     }
 }
