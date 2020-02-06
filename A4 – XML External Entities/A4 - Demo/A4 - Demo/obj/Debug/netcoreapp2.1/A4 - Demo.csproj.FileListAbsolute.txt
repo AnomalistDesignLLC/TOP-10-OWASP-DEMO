@@ -1,0 +1,33 @@
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\A4 - Demo.deps.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\A4 - Demo.runtimeconfig.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\A4 - Demo.runtimeconfig.dev.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\A4 - Demo.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\A4 - Demo.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\A4 - Demo.Views.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\bin\Debug\netcoreapp2.1\A4 - Demo.Views.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.csprojAssemblyReference.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.RazorAssemblyInfo.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.RazorAssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.AssemblyInfoInputs.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.AssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.TagHelpers.input.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.TagHelpers.output.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.RazorCoreGenerate.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAuth.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.RazorTargetAssemblyInfo.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.RazorTargetAssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.Views.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\A4 - Demo.csproj.CopyComplete
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A4 – XML External Entities\A4 - Demo\A4 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\BLA\Index.cshtml.g.cs
