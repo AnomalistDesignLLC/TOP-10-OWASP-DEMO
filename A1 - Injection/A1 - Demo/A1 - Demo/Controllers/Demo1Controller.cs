@@ -22,9 +22,11 @@ namespace A1___Demo.Controllers
             _environment = hostingEnvironment;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(Boolean success)
         {
-            return View();
+            var BankAccount = new BankAccount();
+            BankAccount.success = success;
+            return View(BankAccount);
         }
 
         [HttpPost]
@@ -33,9 +35,7 @@ namespace A1___Demo.Controllers
         {
             /*if (ModelState.IsValid)
             {*/
-                #region connection String
                 var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
-                #endregion
 
                 using (SqlConnection con = new SqlConnection(connection))
                 {
@@ -60,7 +60,7 @@ namespace A1___Demo.Controllers
                 cmd.ExecuteNonQuery();
                 con.Close();*/
             }
-                return RedirectToAction("Index", "Demo3");
+                return RedirectToAction("Index", new { success = true });
             /*}
             return View("Index");*/
         }

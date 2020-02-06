@@ -2887,13 +2887,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Auth\\Login.cshtml",
+      "TargetPath": "Views\\Auth\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\AuthSecured\\Login.cshtml",
-      "TargetPath": "Views\\AuthSecured\\Login.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2909,11 +2909,6 @@
     {
       "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Dashboard\\Index.cshtml",
       "TargetPath": "Views\\Dashboard\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\AuthUnsecured\\Login.cshtml",
-      "TargetPath": "Views\\AuthUnsecured\\Login.cshtml",
       "FileKind": "mvc"
     },
     {

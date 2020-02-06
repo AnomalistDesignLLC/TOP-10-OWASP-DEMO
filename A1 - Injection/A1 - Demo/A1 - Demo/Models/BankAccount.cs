@@ -16,5 +16,7 @@ namespace A1___Demo.Models
         [RegularExpression("[a-zA-Z ]+$",ErrorMessage = "Invalid characters")]
         [StringLength(50, ErrorMessage = "Only 50 Characters are Allowed")]
         public string Name { get; set; }
+
+        public bool success = false;
     }
 }

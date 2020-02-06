@@ -2897,18 +2897,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\Views\\Demo2\\Index.cshtml",
-      "TargetPath": "Views\\Demo2\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\Views\\Demo1\\Index.cshtml",
-      "TargetPath": "Views\\Demo1\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
