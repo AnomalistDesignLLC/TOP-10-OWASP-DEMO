@@ -1,0 +1,48 @@
+﻿@model A2___Demo.Models.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login Unsecured</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-antiforgery="true" name="frm" asp-action="Login">
+
+            <div id="errors" asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" id="btnLoginSecured" value="Login"
+                       class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/md5.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#btnLoginSecured').click(function ()
+        {
+            $("#frm").submit();
+        });
+    });
+</script>

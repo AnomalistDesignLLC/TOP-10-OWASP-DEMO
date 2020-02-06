@@ -1,0 +1,37 @@
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\A2 - Demo.deps.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\A2 - Demo.runtimeconfig.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\A2 - Demo.runtimeconfig.dev.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\A2 - Demo.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\A2 - Demo.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\A2 - Demo.Views.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\bin\Debug\netcoreapp2.1\A2 - Demo.Views.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.csprojAssemblyReference.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.RazorAssemblyInfo.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.RazorAssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.AssemblyInfoInputs.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.AssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.TagHelpers.input.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.TagHelpers.output.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.RazorCoreGenerate.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Secured.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Unsecured.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAuth.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.RazorTargetAssemblyInfo.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.RazorTargetAssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.Views.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\A2 - Demo.csproj.CopyComplete
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A2 – Broken Authentication\A2 - Demo\A2 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs

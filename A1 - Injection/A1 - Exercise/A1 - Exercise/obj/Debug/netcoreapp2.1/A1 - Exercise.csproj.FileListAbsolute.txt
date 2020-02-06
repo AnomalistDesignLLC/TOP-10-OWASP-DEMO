@@ -1,0 +1,32 @@
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\A1 - Exercise.deps.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\A1 - Exercise.runtimeconfig.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\A1 - Exercise.runtimeconfig.dev.json
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\A1 - Exercise.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.csprojAssemblyReference.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.RazorAssemblyInfo.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.RazorAssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.AssemblyInfoInputs.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.AssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.TagHelpers.input.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.TagHelpers.output.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.RazorCoreGenerate.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Exercise1\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.RazorTargetAssemblyInfo.cache
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.RazorTargetAssemblyInfo.cs
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\A1 - Exercise.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\A1 - Exercise.Views.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\bin\Debug\netcoreapp2.1\A1 - Exercise.Views.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.Views.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.dll
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.pdb
+C:\Users\Ken\Desktop\TOP-10-OWASP-DEMO\A1 - Injection\A1 - Exercise\A1 - Exercise\obj\Debug\netcoreapp2.1\A1 - Exercise.csproj.CopyComplete

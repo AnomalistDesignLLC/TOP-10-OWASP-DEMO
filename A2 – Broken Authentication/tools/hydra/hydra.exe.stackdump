@@ -1,0 +1,8 @@
+Exception: STATUS_ILLEGAL_INSTRUCTION at eip=6DE01227
+eax=00000000 ebx=00000000 ecx=20070000 edx=611D80EC esi=00000127 edi=006777AE
+ebp=006777F8 esp=00677770 program=C:\Users\Ken\Desktop\thc-hydra-windows-master\hydra.exe, pid 13120, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+006777F8  6DE01227 (00000000, 00000000, 00000000, 00401EBB)
+00677923  6DE01267 (030D4000, 00000000, 00000000, 00000000)
