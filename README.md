@@ -9,7 +9,14 @@
 | Visual Studio 2019 | https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 |
 | Chrome Browser | https://www.google.com/chrome/ |
 | Firefox Browser | https://www.mozilla.org/en-US/firefox/download/thanks/ |
+| Cookie Quick Manager (Firefox Extension) | https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/ |
 | Burp Suite (Community Edition) | https://portswigger.net/burp/releases/community/latest |
+
+## Installing Visual Studio 2019
+
+1. Make sure to install `ASP.NET and web development`. See screenshot below.
+
+![alt text](./Resources/aspnet.png "aspnet")
 
 ## Importing database
 
