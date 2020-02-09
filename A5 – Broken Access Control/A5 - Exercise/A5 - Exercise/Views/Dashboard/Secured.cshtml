@@ -1,0 +1,16 @@
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "~/Views/Shared/_LayoutAuth.cshtml";
+}
+
+<h2>Dashboard</h2>
+<hr>
+ @if (!string.IsNullOrEmpty(Convert.ToString(@Context.Session.GetString("Username"))))
+{
+    <h4>Welcome @Context.Session.GetString("Username"), You are now authenticated!</h4>
+}
+else
+{
+    <h4>You are not authorized to view this page!</h4>
+}

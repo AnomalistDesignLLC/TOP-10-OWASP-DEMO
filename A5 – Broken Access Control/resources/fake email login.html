@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>CSRF Attack - Fake Email</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+  </head>
+  <body>
+    <h1>CSRF Attack Login - Fake Email</h1>
+    <div class="row">
+      <div class="col-md-4">
+          <form method="post" name="frm" action="http://localhost:5000/AuthUnsecured/Login">            
+            <div class="form-group">
+              Username: <input class="form-control" name="UserName" type="text" />
+            </div>
+            <div class="form-group">
+              Password: <input class="form-control" name="Password" type="password" />
+            </div>
+            <div class="form-group">
+                 <input type="submit" value="Login"
+                        class="btn btn-default" />
+            </div>
+          </form>
+      </div>
+    </div>
+  </body>
+</html>

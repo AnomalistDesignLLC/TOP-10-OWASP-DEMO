@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj": {}
+    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj": {
+    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj",
+        "projectUniqueName": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj",
         "projectName": "A1 - Demo",
-        "projectPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj",
+        "projectPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A1 - Injection\\A1 - Demo\\A1 - Demo\\A1 - Demo.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Demo\\A1 - Demo\\obj\\",
+        "outputPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A1 - Injection\\A1 - Demo\\A1 - Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",
