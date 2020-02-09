@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj": {}
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj": {
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj",
+        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj",
         "projectName": "A1 - Exercise",
-        "projectPath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj",
+        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\A1 - Exercise.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\obj\\",
+        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A1 - Injection\\A1 - Exercise\\A1 - Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -37,7 +37,7 @@ namespace A3___Exercise.Controllers
             if (ModelState.IsValid)
             {   //Getting Pasword from Database
                 var registration = ReturnPassword(model.UserName);
-                // Comparing Password With Seed
+
                 if (registration.Password == model.Password)
                 {
                     HttpContext.Session.SetString("Username", Convert.ToString(model.UserName));
