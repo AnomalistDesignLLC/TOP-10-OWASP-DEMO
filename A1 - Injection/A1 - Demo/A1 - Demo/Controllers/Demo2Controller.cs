@@ -54,7 +54,7 @@ namespace A1___Demo.Controllers
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=htnme535w6h6prfa;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -79,7 +79,7 @@ namespace A1___Demo.Controllers
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=htnme535w6h6prfa;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -104,7 +104,7 @@ namespace A1___Demo.Controllers
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=htnme535w6h6prfa;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -129,7 +129,7 @@ namespace A1___Demo.Controllers
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=htnme535w6h6prfa;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -200,7 +200,7 @@ namespace A1___Demo.Controllers
         [HttpGet]
         public IActionResult RecreateDatabase()
         {
-            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=htnme535w6h6prfa;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
             using (SqlConnection con = new SqlConnection(connection))
             {
                 con.Open();
