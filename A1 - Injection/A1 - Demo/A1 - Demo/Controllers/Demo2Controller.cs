@@ -25,16 +25,16 @@ namespace A1___Demo.Controllers
             List<Registration> users = new List<Registration>();
             if (id != null)
             {
-                users = GetUserDetailsbyId(id);
+                // users = GetUserDetailsbyId(id);
 
-                // Paraeterized Query
+                // Parameterized Query
                 // users = GetUserDetailsbyId_ParameterizedQuery(id);
 
                 // Stored procedure
                 // users = GetUserDetailsbyId_StoreProcedure(id);
 
                 // Entity Framework
-                // users = GetUserDetailsbyId_Entityframework(id);
+                users = GetUserDetailsbyId_Entityframework(id);
                 return View(users);
             } else
             {
