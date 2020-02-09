@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj": {}
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj": {
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj",
+        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj",
         "projectName": "A3 - Exercise",
-        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj",
+        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\A3 - Exercise.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\obj\\",
+        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A3 – Sensitive Data Exposure\\A3 - Exercise\\A3 - Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",

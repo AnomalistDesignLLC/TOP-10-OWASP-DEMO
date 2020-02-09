@@ -74,3 +74,41 @@ c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO\A3 – Sensiti
 c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.dll
 c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.pdb
 c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.csproj.CopyComplete
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\A3 - Exercise.deps.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\A3 - Exercise.runtimeconfig.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\A3 - Exercise.runtimeconfig.dev.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\A3 - Exercise.dll
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\A3 - Exercise.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\A3 - Exercise.Views.dll
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\bin\Debug\netcoreapp2.1\A3 - Exercise.Views.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.csprojAssemblyReference.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.RazorAssemblyInfo.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.RazorAssemblyInfo.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.AssemblyInfoInputs.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.AssemblyInfo.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.TagHelpers.input.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.TagHelpers.output.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.RazorCoreGenerate.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\AuthSecured\Login.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\AuthUnsecured\Login.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Secured.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Unsecured.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAuth.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.RazorTargetAssemblyInfo.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.RazorTargetAssemblyInfo.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.Views.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.dll
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A3 – Sensitive Data Exposure\A3 - Exercise\A3 - Exercise\obj\Debug\netcoreapp2.1\A3 - Exercise.csproj.CopyComplete
