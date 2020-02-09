@@ -20,10 +20,10 @@ namespace A1___Demo.Controllers
             _databaseContext = databaseContext;
         }
 
-        public IActionResult Index(int id)
+        public IActionResult Index(string id)
         {
             List<Registration> users = new List<Registration>();
-            if (id != 0)
+            if (id != null)
             {
                 users = GetUserDetailsbyId(id);
 
@@ -75,7 +75,7 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId(int registrationId)
+        public List<Registration> GetUserDetailsbyId(string registrationId)
         {
             DataTable dt = new DataTable();
 
@@ -100,7 +100,7 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId_StoreProcedure(int registrationId)
+        public List<Registration> GetUserDetailsbyId_StoreProcedure(string registrationId)
         {
             DataTable dt = new DataTable();
 
@@ -125,7 +125,7 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId_ParameterizedQuery(int registrationId)
+        public List<Registration> GetUserDetailsbyId_ParameterizedQuery(string registrationId)
         {
             DataTable dt = new DataTable();
 
@@ -151,12 +151,12 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId_Entityframework(int id)
+        public List<Registration> GetUserDetailsbyId_Entityframework(string id)
         {
             try
             {
                 var result = (from registration in _databaseContext.Registration
-                              where registration.RegistrationId == id
+                              where registration.RegistrationId == Convert.ToInt32(id)
                               select registration).ToList();
                 return result;
             }
