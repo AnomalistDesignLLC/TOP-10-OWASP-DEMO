@@ -1,0 +1,40 @@
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\appsettings.Development.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\appsettings.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\A5 - Exercise.deps.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\A5 - Exercise.runtimeconfig.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\A5 - Exercise.runtimeconfig.dev.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\A5 - Exercise.dll
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\A5 - Exercise.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\A5 - Exercise.Views.dll
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\bin\Debug\netcoreapp2.1\A5 - Exercise.Views.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.csprojAssemblyReference.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.RazorAssemblyInfo.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.RazorAssemblyInfo.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.AssemblyInfoInputs.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.AssemblyInfo.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.TagHelpers.input.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.TagHelpers.output.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.RazorCoreGenerate.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\AuthSecured\Login.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\AuthUnsecured\Login.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Secured.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Unsecured.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAuth.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.RazorTargetAssemblyInfo.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.RazorTargetAssemblyInfo.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.Views.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.dll
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\A5 - Exercise.csproj.CopyComplete
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Transfer\Secured.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Exercise\A5 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Transfer\Unsecured.cshtml.g.cs

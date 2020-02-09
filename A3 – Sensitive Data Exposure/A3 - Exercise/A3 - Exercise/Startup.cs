@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using A3___Exercise.Filters;
 
 namespace A3___Exercise
 {
@@ -26,7 +27,11 @@ namespace A3___Exercise
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMvc(options =>
+            {
+                //registered Audit Filter
+                options.Filters.Add(typeof(AuditFilter));
+            }).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.Configure<CookiePolicyOptions>(options =>
             {
