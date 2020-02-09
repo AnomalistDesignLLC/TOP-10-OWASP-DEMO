@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj": {}
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj": {
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
+        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
         "projectName": "A2 - Demo",
-        "projectPath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
+        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\obj\\",
+        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",

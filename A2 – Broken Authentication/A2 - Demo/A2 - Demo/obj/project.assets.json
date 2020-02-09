@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
+      "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
       "projectName": "A2 - Demo",
-      "projectPath": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
+      "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\A2 - Demo.csproj",
       "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ken\\Desktop\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\obj\\",
+      "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",
