@@ -44,6 +44,20 @@
 12. In the address bar, type and enter `about:config`
 13. Click `Accept the Risk and Continue`
 14. In the `Search preference name` search input box, type in `hijacking`
-15. Set `network.proxy.allow_hijacking_localhost` setting to `true` by clicking toggle button.
+15. Set `network.proxy.allow_hijacking_localhost` setting to `true` by clicking toggle button. See screenshot below.
 
 ![alt text](./Resources/firefoxHijacking.png "firefoxHijacking")
+
+16. Click `Open Menu`, and click `Options`. See screenshot below.
+
+![alt text](./Resources/firefoxOptions.png "firefoxOptions")
+
+17. In the `Find in Options` search box, type in `proxy`, then click `Settings` under Network Settings. See screenshot below.
+
+![alt text](./Resources/firefoxProxy.png "firefoxProxy")
+
+18. Select `Manual proxy configuration`, then set `HTTP Proxy` to `localhost` with `Port` set to `8080`. See screenshot below.
+
+![alt text](./Resources/firefoxProxy2.png "firefoxProxy2")
+
+19. Lastly, Click `OK`
