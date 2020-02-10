@@ -8,6 +8,7 @@
 | SQL Server Management Studio (SSMS)| https://aka.ms/ssmsfullsetup |
 | Visual Studio 2019 | https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 |
 | Chrome Browser | https://www.google.com/chrome/ |
+| Cookie-Editor (Chrome Extension) | https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en |
 | Firefox Browser | https://www.mozilla.org/en-US/firefox/download/thanks/ |
 | Cookie Quick Manager (Firefox Extension) | https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/ |
 | Burp Suite (Community Edition) | https://portswigger.net/burp/releases/community/latest |
