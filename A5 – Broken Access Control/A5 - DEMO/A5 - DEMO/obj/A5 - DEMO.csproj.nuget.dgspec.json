@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\A5 - DEMO.csproj": {}
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\A5 - DEMO.csproj": {
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\A5 - DEMO.csproj",
-        "projectName": "A5 - DEMO",
-        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\A5 - DEMO.csproj",
+        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
+        "projectName": "A5 - Demo",
+        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\obj\\",
+        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,18 +38,6 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
-            "IdentityServer4": {
-              "target": "Package",
-              "version": "[2.1.1, )"
-            },
-            "IdentityServer4.AccessTokenValidation": {
-              "target": "Package",
-              "version": "[2.3.0, )"
-            },
-            "IdentityServer4.AspNetIdentity": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",

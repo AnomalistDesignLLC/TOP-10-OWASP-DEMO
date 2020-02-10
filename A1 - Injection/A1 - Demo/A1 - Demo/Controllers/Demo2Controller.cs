@@ -20,21 +20,21 @@ namespace A1___Demo.Controllers
             _databaseContext = databaseContext;
         }
 
-        public IActionResult Index(int id)
+        public IActionResult Index(string id)
         {
             List<Registration> users = new List<Registration>();
-            if (id != 0)
+            if (id != null)
             {
-                users = GetUserDetailsbyId(id);
+                // users = GetUserDetailsbyId(id);
 
-                // Paraeterized Query
+                // Parameterized Query
                 // users = GetUserDetailsbyId_ParameterizedQuery(id);
 
                 // Stored procedure
                 // users = GetUserDetailsbyId_StoreProcedure(id);
 
                 // Entity Framework
-                // users = GetUserDetailsbyId_Entityframework(id);
+                users = GetUserDetailsbyId_Entityframework(id);
                 return View(users);
             } else
             {
@@ -54,7 +54,7 @@ namespace A1___Demo.Controllers
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -75,11 +75,11 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId(int registrationId)
+        public List<Registration> GetUserDetailsbyId(string registrationId)
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -100,11 +100,11 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId_StoreProcedure(int registrationId)
+        public List<Registration> GetUserDetailsbyId_StoreProcedure(string registrationId)
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -125,11 +125,11 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId_ParameterizedQuery(int registrationId)
+        public List<Registration> GetUserDetailsbyId_ParameterizedQuery(string registrationId)
         {
             DataTable dt = new DataTable();
 
-            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;";
 
             using (SqlConnection con = new SqlConnection(connection))
             {
@@ -151,12 +151,12 @@ namespace A1___Demo.Controllers
             return registrations;
         }
 
-        public List<Registration> GetUserDetailsbyId_Entityframework(int id)
+        public List<Registration> GetUserDetailsbyId_Entityframework(string id)
         {
             try
             {
                 var result = (from registration in _databaseContext.Registration
-                              where registration.RegistrationId == id
+                              where registration.RegistrationId == Convert.ToInt32(id)
                               select registration).ToList();
                 return result;
             }
@@ -200,7 +200,7 @@ namespace A1___Demo.Controllers
         [HttpGet]
         public IActionResult RecreateDatabase()
         {
-            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;";
             using (SqlConnection con = new SqlConnection(connection))
             {
                 con.Open();

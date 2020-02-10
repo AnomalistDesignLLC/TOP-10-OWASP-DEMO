@@ -22,105 +22,17 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "A5 - DEMO/1.0.0": {
+      "A5 - Demo/1.0.0": {
         "dependencies": {
-          "IdentityServer4": "2.1.1",
-          "IdentityServer4.AccessTokenValidation": "2.3.0",
-          "IdentityServer4.AspNetIdentity": "2.1.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
         },
         "runtime": {
-          "A5 - DEMO.dll": {}
+          "A5 - Demo.dll": {}
         },
         "compile": {
-          "A5 - DEMO.dll": {}
-        }
-      },
-      "IdentityModel/3.0.0": {
-        "dependencies": {
-          "Newtonsoft.Json": "11.0.2"
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityModel.dll": {
-            "assemblyVersion": "3.0.0.0",
-            "fileVersion": "3.0.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityModel.dll": {}
-        }
-      },
-      "IdentityModel.AspNetCore.OAuth2Introspection/3.1.0": {
-        "dependencies": {
-          "IdentityModel": "3.0.0",
-          "Microsoft.AspNetCore.Authentication": "2.1.1",
-          "Microsoft.AspNetCore.Http.Abstractions": "2.1.1",
-          "Microsoft.Extensions.Caching.Memory": "2.1.1"
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityModel.AspNetCore.OAuth2Introspection.dll": {
-            "assemblyVersion": "3.1.0.0",
-            "fileVersion": "3.1.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityModel.AspNetCore.OAuth2Introspection.dll": {}
-        }
-      },
-      "IdentityServer4/2.1.1": {
-        "dependencies": {
-          "IdentityModel": "3.0.0",
-          "Microsoft.AspNetCore.Authentication": "2.1.1",
-          "Microsoft.AspNetCore.Authentication.Cookies": "2.1.1",
-          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "2.1.1",
-          "Microsoft.AspNetCore.Cors": "2.1.1",
-          "Microsoft.Extensions.Caching.Memory": "2.1.1",
-          "Microsoft.Extensions.Logging": "2.1.1",
-          "Microsoft.Extensions.Options.ConfigurationExtensions": "2.1.1",
-          "System.IdentityModel.Tokens.Jwt": "5.2.0",
-          "System.Security.Cryptography.Cng": "4.5.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityServer4.dll": {
-            "assemblyVersion": "2.1.1.0",
-            "fileVersion": "2.1.1.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityServer4.dll": {}
-        }
-      },
-      "IdentityServer4.AccessTokenValidation/2.3.0": {
-        "dependencies": {
-          "IdentityModel.AspNetCore.OAuth2Introspection": "3.1.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.1.1",
-          "Microsoft.AspNetCore.Authorization": "2.1.1"
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityServer4.AccessTokenValidation.dll": {
-            "assemblyVersion": "2.3.0.0",
-            "fileVersion": "2.3.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityServer4.AccessTokenValidation.dll": {}
-        }
-      },
-      "IdentityServer4.AspNetIdentity/2.1.0": {
-        "dependencies": {
-          "IdentityServer4": "2.1.1",
-          "Microsoft.AspNetCore.Identity": "2.1.1"
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll": {
-            "assemblyVersion": "2.1.0.0",
-            "fileVersion": "2.1.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll": {}
+          "A5 - Demo.dll": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
@@ -3248,45 +3160,10 @@
     }
   },
   "libraries": {
-    "A5 - DEMO/1.0.0": {
+    "A5 - Demo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "IdentityModel/3.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-EKMOOUUqDzBR3goiA8eWJ1aQBz1AMfKVxxR7XnzAf5qq2k9vr6GT91SyHmzC14KINpNNJOrbmowXf5S04gQ0ZA==",
-      "path": "identitymodel/3.0.0",
-      "hashPath": "identitymodel.3.0.0.nupkg.sha512"
-    },
-    "IdentityModel.AspNetCore.OAuth2Introspection/3.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-x8e2m1JAHpUG+u8fuYtda72ppeqCSux+YIytLLII9eDqm5mK7sofqWzPlXTUQ9bD6qGFZrK+frMyjRfARKTKPQ==",
-      "path": "identitymodel.aspnetcore.oauth2introspection/3.1.0",
-      "hashPath": "identitymodel.aspnetcore.oauth2introspection.3.1.0.nupkg.sha512"
-    },
-    "IdentityServer4/2.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-SeSGMMAT/FEnir5zxDrdDvenxtuPVAxTAUNYtYjVl40sAKsjwJJ9GE9kSv9QI3trU8vLft5ApRFQhOYAt6Itug==",
-      "path": "identityserver4/2.1.1",
-      "hashPath": "identityserver4.2.1.1.nupkg.sha512"
-    },
-    "IdentityServer4.AccessTokenValidation/2.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-pdM4gej6eWTJDK1Wii27zvmoFjh0d2qq9G5yX0EiP/DMENJ28PgdSl9bTVTMNpz2KTPX51yqfJzd80US2JFjmw==",
-      "path": "identityserver4.accesstokenvalidation/2.3.0",
-      "hashPath": "identityserver4.accesstokenvalidation.2.3.0.nupkg.sha512"
-    },
-    "IdentityServer4.AspNetIdentity/2.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-r1QXwLW11a4+BxTy/2GUFzAYLAulKQhMSDs/fFCai6r1oH0btv6Dw7lvDNyh8wn0oeonMQvxxzJKzLbMqYZcNw==",
-      "path": "identityserver4.aspnetidentity/2.1.0",
-      "hashPath": "identityserver4.aspnetidentity.2.1.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
       "type": "package",

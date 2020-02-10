@@ -1,14 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using A5___DEMO.Filters;
 using Microsoft.AspNetCore.Mvc;
 
-namespace A5___DEMO.Controllers
+namespace A5___Demo.Controllers
 {
     public class AdminController : Controller
     {
+        [HttpGet]
         public IActionResult Index()
         {
             return View();

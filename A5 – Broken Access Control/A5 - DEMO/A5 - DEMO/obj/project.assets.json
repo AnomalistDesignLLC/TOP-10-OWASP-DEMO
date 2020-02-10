@@ -2,81 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "IdentityModel/3.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "10.0.3"
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityModel.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityModel.dll": {}
-        }
-      },
-      "IdentityModel.AspNetCore.OAuth2Introspection/3.1.0": {
-        "type": "package",
-        "dependencies": {
-          "IdentityModel": "3.0.0",
-          "Microsoft.AspNetCore.Authentication": "2.0.1",
-          "Microsoft.AspNetCore.Http.Abstractions": "2.0.1",
-          "Microsoft.Extensions.Caching.Memory": "2.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityModel.AspNetCore.OAuth2Introspection.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityModel.AspNetCore.OAuth2Introspection.dll": {}
-        }
-      },
-      "IdentityServer4/2.1.1": {
-        "type": "package",
-        "dependencies": {
-          "IdentityModel": "3.0.0",
-          "Microsoft.AspNetCore.Authentication": "2.0.1",
-          "Microsoft.AspNetCore.Authentication.Cookies": "2.0.1",
-          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "2.0.1",
-          "Microsoft.AspNetCore.Cors": "2.0.1",
-          "Microsoft.Extensions.Caching.Memory": "2.0.0",
-          "Microsoft.Extensions.Logging": "2.0.0",
-          "Microsoft.Extensions.Options.ConfigurationExtensions": "2.0.0",
-          "System.IdentityModel.Tokens.Jwt": "5.1.5",
-          "System.Security.Cryptography.Cng": "4.4.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityServer4.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityServer4.dll": {}
-        }
-      },
-      "IdentityServer4.AccessTokenValidation/2.3.0": {
-        "type": "package",
-        "dependencies": {
-          "IdentityModel.AspNetCore.OAuth2Introspection": "3.1.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.0.1",
-          "Microsoft.AspNetCore.Authorization": "2.0.1"
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityServer4.AccessTokenValidation.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityServer4.AccessTokenValidation.dll": {}
-        }
-      },
-      "IdentityServer4.AspNetIdentity/2.1.0": {
-        "type": "package",
-        "dependencies": {
-          "IdentityServer4": "2.1.1",
-          "Microsoft.AspNetCore.Identity": "2.0.1"
-        },
-        "compile": {
-          "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll": {}
-        }
-      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -4412,86 +4337,6 @@
     }
   },
   "libraries": {
-    "IdentityModel/3.0.0": {
-      "sha512": "EKMOOUUqDzBR3goiA8eWJ1aQBz1AMfKVxxR7XnzAf5qq2k9vr6GT91SyHmzC14KINpNNJOrbmowXf5S04gQ0ZA==",
-      "type": "package",
-      "path": "identitymodel/3.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "identitymodel.3.0.0.nupkg.sha512",
-        "identitymodel.nuspec",
-        "lib/net452/IdentityModel.dll",
-        "lib/net452/IdentityModel.xml",
-        "lib/net461/IdentityModel.dll",
-        "lib/net461/IdentityModel.xml",
-        "lib/netstandard1.4/IdentityModel.dll",
-        "lib/netstandard1.4/IdentityModel.xml",
-        "lib/netstandard2.0/IdentityModel.dll",
-        "lib/netstandard2.0/IdentityModel.xml"
-      ]
-    },
-    "IdentityModel.AspNetCore.OAuth2Introspection/3.1.0": {
-      "sha512": "x8e2m1JAHpUG+u8fuYtda72ppeqCSux+YIytLLII9eDqm5mK7sofqWzPlXTUQ9bD6qGFZrK+frMyjRfARKTKPQ==",
-      "type": "package",
-      "path": "identitymodel.aspnetcore.oauth2introspection/3.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "identitymodel.aspnetcore.oauth2introspection.3.1.0.nupkg.sha512",
-        "identitymodel.aspnetcore.oauth2introspection.nuspec",
-        "lib/net461/IdentityModel.AspNetCore.OAuth2Introspection.dll",
-        "lib/net461/IdentityModel.AspNetCore.OAuth2Introspection.pdb",
-        "lib/netstandard2.0/IdentityModel.AspNetCore.OAuth2Introspection.dll",
-        "lib/netstandard2.0/IdentityModel.AspNetCore.OAuth2Introspection.pdb",
-        "lib/netstandard2.0/IdentityModel.AspNetCore.OAuth2Introspection.xml"
-      ]
-    },
-    "IdentityServer4/2.1.1": {
-      "sha512": "SeSGMMAT/FEnir5zxDrdDvenxtuPVAxTAUNYtYjVl40sAKsjwJJ9GE9kSv9QI3trU8vLft5ApRFQhOYAt6Itug==",
-      "type": "package",
-      "path": "identityserver4/2.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "identityserver4.2.1.1.nupkg.sha512",
-        "identityserver4.nuspec",
-        "lib/netstandard2.0/IdentityServer4.dll",
-        "lib/netstandard2.0/IdentityServer4.pdb",
-        "lib/netstandard2.0/IdentityServer4.xml"
-      ]
-    },
-    "IdentityServer4.AccessTokenValidation/2.3.0": {
-      "sha512": "pdM4gej6eWTJDK1Wii27zvmoFjh0d2qq9G5yX0EiP/DMENJ28PgdSl9bTVTMNpz2KTPX51yqfJzd80US2JFjmw==",
-      "type": "package",
-      "path": "identityserver4.accesstokenvalidation/2.3.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "identityserver4.accesstokenvalidation.2.3.0.nupkg.sha512",
-        "identityserver4.accesstokenvalidation.nuspec",
-        "lib/net461/IdentityServer4.AccessTokenValidation.dll",
-        "lib/net461/IdentityServer4.AccessTokenValidation.pdb",
-        "lib/net461/IdentityServer4.AccessTokenValidation.xml",
-        "lib/netstandard2.0/IdentityServer4.AccessTokenValidation.dll",
-        "lib/netstandard2.0/IdentityServer4.AccessTokenValidation.pdb",
-        "lib/netstandard2.0/IdentityServer4.AccessTokenValidation.xml"
-      ]
-    },
-    "IdentityServer4.AspNetIdentity/2.1.0": {
-      "sha512": "r1QXwLW11a4+BxTy/2GUFzAYLAulKQhMSDs/fFCai6r1oH0btv6Dw7lvDNyh8wn0oeonMQvxxzJKzLbMqYZcNw==",
-      "type": "package",
-      "path": "identityserver4.aspnetidentity/2.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "identityserver4.aspnetidentity.2.1.0.nupkg.sha512",
-        "identityserver4.aspnetidentity.nuspec",
-        "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll",
-        "lib/netstandard2.0/IdentityServer4.AspNetIdentity.pdb",
-        "lib/netstandard2.0/IdentityServer4.AspNetIdentity.xml"
-      ]
-    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "owAlEIUZXWSnkK8Z1c+zR47A0X6ykF4XjbPok4lQKNuciUfHLGPd6QnI+rt/8KlQ17PmF+I4S3f+m+Qe4IvViw==",
       "type": "package",
@@ -12029,9 +11874,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "IdentityServer4 >= 2.1.1",
-      "IdentityServer4.AccessTokenValidation >= 2.3.0",
-      "IdentityServer4.AspNetIdentity >= 2.1.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
@@ -12043,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\A5 - DEMO.csproj",
-      "projectName": "A5 - DEMO",
-      "projectPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\A5 - DEMO.csproj",
+      "projectUniqueName": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
+      "projectName": "A5 - Demo",
+      "projectPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
       "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - DEMO\\A5 - DEMO\\obj\\",
+      "outputPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12074,18 +11916,6 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
-          "IdentityServer4": {
-            "target": "Package",
-            "version": "[2.1.1, )"
-          },
-          "IdentityServer4.AccessTokenValidation": {
-            "target": "Package",
-            "version": "[2.3.0, )"
-          },
-          "IdentityServer4.AspNetIdentity": {
-            "target": "Package",
-            "version": "[2.1.0, )"
-          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
