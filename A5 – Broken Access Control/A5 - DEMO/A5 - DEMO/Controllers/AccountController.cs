@@ -39,13 +39,18 @@ namespace A5___Demo.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "CanReadAccount")]
         public IActionResult Index(int id)
         {
             var AccountViewModel = new AccountViewModel();
             if (id == 1) {
                 AccountViewModel.Name = "Matthew A. Raymer";
-            } else {
+            } 
+            else if (id == 2) {
                 AccountViewModel.Name = "John Doe";
+            }
+            else  {
+                AccountViewModel.Name = "";
             }
             return View(AccountViewModel);
         }
@@ -576,5 +581,10 @@ namespace A5___Demo.Controllers
         }
 
         #endregion
+
+        [HttpGet]
+        public IActionResult AccessDenied(string returnUrl) {
+            return View();
+        }
     }
 }

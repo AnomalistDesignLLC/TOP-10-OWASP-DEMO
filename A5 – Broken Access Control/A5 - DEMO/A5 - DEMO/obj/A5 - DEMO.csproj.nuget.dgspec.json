@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj": {}
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj": {
+    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
+        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
         "projectName": "A5 - Demo",
-        "projectPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
+        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\A5 - Demo.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\obj\\",
+        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",
