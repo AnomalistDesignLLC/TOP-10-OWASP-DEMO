@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A4 – XML External Entities\\A4 - Demo\\A4 - Demo\\A4 - Demo.csproj",
+      "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A4 – XML External Entities\\A4 - Demo\\A4 - Demo\\A4 - Demo.csproj",
       "projectName": "A4 - Demo",
-      "projectPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A4 – XML External Entities\\A4 - Demo\\A4 - Demo\\A4 - Demo.csproj",
+      "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A4 – XML External Entities\\A4 - Demo\\A4 - Demo\\A4 - Demo.csproj",
       "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO\\A4 – XML External Entities\\A4 - Demo\\A4 - Demo\\obj\\",
+      "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A4 – XML External Entities\\A4 - Demo\\A4 - Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",

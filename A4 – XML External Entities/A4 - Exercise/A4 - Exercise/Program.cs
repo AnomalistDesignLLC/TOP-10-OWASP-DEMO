@@ -1,27 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
-using System.Xml;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 
 namespace A4___Exercise
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            string xxePayload = "<!DOCTYPE doc [<!ENTITY win SYSTEM 'file:///C:/demo.txt'>]>" 
-                     + "<doc>&win;</doc>";
-            string xml = "<?xml version='1.0' ?>" + xxePayload;
-                    
-            XmlReaderSettings rs = new XmlReaderSettings();
-            rs.DtdProcessing = DtdProcessing.Parse;
-
-            XmlReader myReader = XmlReader.Create(new StringReader(xml),rs);
-                    
-            while (myReader.Read())
-            {
-                Console.WriteLine(myReader.Value);
-            }
-            Console.ReadLine();
+            CreateWebHostBuilder(args).Build().Run();
         }
+
+        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
+            WebHost.CreateDefaultBuilder(args)
+                .UseStartup<Startup>();
     }
 }
