@@ -50,3 +50,4 @@ C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Bro
 C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Demo\A5 - Demo\obj\Debug\netcoreapp2.1\A5 - Demo.pdb
 C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Demo\A5 - Demo\obj\Debug\netcoreapp2.1\A5 - Demo.csproj.CopyComplete
 c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Demo\A5 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A5 – Broken Access Control\A5 - Demo\A5 - Demo\obj\Debug\netcoreapp2.1\Razor\Views\Private\Index.cshtml.g.cs

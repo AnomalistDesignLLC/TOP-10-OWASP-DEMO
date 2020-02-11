@@ -1,1 +1,0 @@
-./hydra -I -l admin -P passlist.txt -s 5000 127.0.0.1 http-post-form "/Auth/Login:UserName=^USER^&Password=^PASS^&Login=Login:The user name or password provided is incorrect."
