@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj": {}
+    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj": {
+    "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj",
         "projectName": "A2 - Exercise",
-        "projectPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj",
+        "projectPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\A2 - Exercise.csproj",
         "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\obj\\",
+        "outputPath": "C:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Exercise\\A2 - Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",

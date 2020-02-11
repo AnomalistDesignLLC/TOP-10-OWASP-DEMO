@@ -2877,23 +2877,43 @@
   "RootNamespace": "A2 - Demo",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\ForgotPassword.cshtml",
+      "TargetPath": "Views\\Account\\ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\SendCode.cshtml",
+      "TargetPath": "Views\\Account\\SendCode.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Dashboard\\Index.cshtml",
-      "TargetPath": "Views\\Dashboard\\Index.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+      "TargetPath": "Views\\Account\\ExternalLoginConfirmation.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Dashboard\\Unsecured.cshtml",
-      "TargetPath": "Views\\Dashboard\\Unsecured.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\ExternalLoginFailure.cshtml",
+      "TargetPath": "Views\\Account\\ExternalLoginFailure.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Auth\\Login.cshtml",
-      "TargetPath": "Views\\Auth\\Login.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Private\\Index.cshtml",
+      "TargetPath": "Views\\Private\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Manage\\ChangePassword.cshtml",
+      "TargetPath": "Views\\Manage\\ChangePassword.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2902,13 +2922,48 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\UseRecoveryCode.cshtml",
+      "TargetPath": "Views\\Account\\UseRecoveryCode.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\ResetPassword.cshtml",
+      "TargetPath": "Views\\Account\\ResetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\Index.cshtml",
+      "TargetPath": "Views\\Account\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Manage\\Index.cshtml",
+      "TargetPath": "Views\\Manage\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+      "TargetPath": "Views\\Account\\ResetPasswordConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\ConfirmEmail.cshtml",
+      "TargetPath": "Views\\Account\\ConfirmEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\VerifyAuthenticatorCode.cshtml",
+      "TargetPath": "Views\\Account\\VerifyAuthenticatorCode.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2922,8 +2977,33 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Shared\\_LayoutAuth.cshtml",
-      "TargetPath": "Views\\Shared\\_LayoutAuth.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Manage\\DisplayRecoveryCodes.cshtml",
+      "TargetPath": "Views\\Manage\\DisplayRecoveryCodes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Manage\\SetPassword.cshtml",
+      "TargetPath": "Views\\Manage\\SetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Manage\\ManageLogins.cshtml",
+      "TargetPath": "Views\\Manage\\ManageLogins.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\Lockout.cshtml",
+      "TargetPath": "Views\\Account\\Lockout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Manage\\VerifyPhoneNumber.cshtml",
+      "TargetPath": "Views\\Manage\\VerifyPhoneNumber.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Manage\\AddPhoneNumber.cshtml",
+      "TargetPath": "Views\\Manage\\AddPhoneNumber.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2932,13 +3012,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Register\\Index.cshtml",
-      "TargetPath": "Views\\Register\\Index.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\VerifyCode.cshtml",
+      "TargetPath": "Views\\Account\\VerifyCode.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Dashboard\\Secured.cshtml",
-      "TargetPath": "Views\\Dashboard\\Secured.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A2 – Broken Authentication\\A2 - Demo\\A2 - Demo\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+      "TargetPath": "Views\\Account\\ForgotPasswordConfirmation.cshtml",
       "FileKind": "mvc"
     }
   ],
