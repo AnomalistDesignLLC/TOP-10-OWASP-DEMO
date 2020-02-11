@@ -1,0 +1,21 @@
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Admin Page";
+}
+
+<h1>This is an Admin page</h1>
+
+This is an Admin page
+
+<br /><br /><br />
+
+<form>
+    <input id="submitQuery" type="button" value="Submit Query" />
+    <span id="msg" style="display:none;">Form posted</span>
+</form>
+
+<script>
+    document.getElementById("submitQuery").onclick = () => {
+        document.getElementById("msg").style.display = "block";
+    };
+</script>

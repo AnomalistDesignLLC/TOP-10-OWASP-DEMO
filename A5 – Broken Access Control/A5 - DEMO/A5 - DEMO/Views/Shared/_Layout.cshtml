@@ -27,7 +27,6 @@
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
-                            <li><a asp-controller="Dashboard" asp-action="Index">Dashboard</a></li>
                             <li><a asp-controller="Private" asp-action="Index">Private page</a></li>
                             @if (User.IsInRole("Admin"))
                             {

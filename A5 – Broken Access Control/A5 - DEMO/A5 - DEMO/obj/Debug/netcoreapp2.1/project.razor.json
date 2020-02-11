@@ -2887,6 +2887,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\Views\\Account\\AccessDenied.cshtml",
+      "TargetPath": "Views\\Account\\AccessDenied.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
       "TargetPath": "Views\\Account\\ForgotPasswordConfirmation.cshtml",
       "FileKind": "mvc"
@@ -2949,6 +2954,11 @@
     {
       "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\Views\\Private\\Index.cshtml",
       "TargetPath": "Views\\Private\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A5 – Broken Access Control\\A5 - Demo\\A5 - Demo\\Views\\Admin\\Index.cshtml",
+      "TargetPath": "Views\\Admin\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
