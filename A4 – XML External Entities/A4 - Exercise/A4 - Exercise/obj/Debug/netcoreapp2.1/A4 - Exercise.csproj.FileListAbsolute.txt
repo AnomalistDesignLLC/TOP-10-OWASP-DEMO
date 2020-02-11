@@ -1,0 +1,33 @@
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\appsettings.Development.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\appsettings.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\A4 - Exercise.deps.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\A4 - Exercise.runtimeconfig.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\A4 - Exercise.runtimeconfig.dev.json
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\A4 - Exercise.dll
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\A4 - Exercise.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\A4 - Exercise.Views.dll
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\bin\Debug\netcoreapp2.1\A4 - Exercise.Views.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.csprojAssemblyReference.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.RazorAssemblyInfo.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.RazorAssemblyInfo.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.AssemblyInfoInputs.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.AssemblyInfo.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.TagHelpers.input.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.TagHelpers.output.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.RazorCoreGenerate.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\BLA\Index.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAuth.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.RazorTargetAssemblyInfo.cache
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.RazorTargetAssemblyInfo.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.Views.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.dll
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.pdb
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A4 – XML External Entities\A4 - Exercise\A4 - Exercise\obj\Debug\netcoreapp2.1\A4 - Exercise.csproj.CopyComplete
