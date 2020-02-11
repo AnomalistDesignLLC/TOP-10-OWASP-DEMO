@@ -8,8 +8,8 @@
 <p>
     To exploit the SQL Injection threat, you can try:
     <ul>
-        <li>Use <span class="badge badge-danger">Matthew'); delete BankAccount --</span> - In this case we can delete all the data in Table BankAccount</li>
-        <li>You can also try <span class="badge badge-danger">Matthew'); drop table BankAccount --</span> - In this case we can delete the Table BankAccount</li>
+        <li>Use <span class="badge badge-danger">Matthew Raymer'); delete from BankAccount --</span> - In this case we can delete all the data in Table BankAccount</li>
+        <li>You can also try <span class="badge badge-danger">Matthew Raymer'); drop table BankAccount --</span> - In this case we can delete the Table BankAccount</li>
         <li>You can use <span class="badge badge-danger">Recreate database</span> to recreate table BankAccount</li>
     </ul>
 </p>
@@ -26,9 +26,13 @@
             <div class="form-group">
                 <input type="submit" id="btnLogin" value="Create Account" class="btn btn-default" />
                 <br />
-                @if (Model.success)
+                @if (Model.success == true)
                 {
                     <span style="color:red">Account Created!</span>
+                }
+                @if (Model.success == false)
+                {
+                    <span style="color:red">An error occured.</span>
                 }
             </div>
         </form>
