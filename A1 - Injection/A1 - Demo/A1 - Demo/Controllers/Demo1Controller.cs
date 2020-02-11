@@ -33,36 +33,36 @@ namespace A1___Demo.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Register(BankAccount bankAccount)
         {
-            /*if (ModelState.IsValid)
-            {*/
+            if (ModelState.IsValid)
+            {
                 var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
 
                 using (SqlConnection con = new SqlConnection(connection))
                 {
                     con.Open();
 
-                // Inline Query
-                var query = string.Format("insert into BankAccount(Name) values('{0}')", bankAccount.Name);
-                SqlCommand cmd = new SqlCommand(query, con) { CommandType = CommandType.Text };
-                cmd.ExecuteNonQuery();
-                con.Close();
+                    // Inline Query
+                    var query = string.Format("insert into BankAccount(Name) values('{0}')", bankAccount.Name);
+                    SqlCommand cmd = new SqlCommand(query, con) { CommandType = CommandType.Text };
+                    cmd.ExecuteNonQuery();
+                    con.Close();
 
-                // Paraeterized Query
-                /*var query = "insert into BankAccount(Name) values(@name)";
-                SqlCommand cmd = new SqlCommand(query, con) { CommandType = CommandType.Text };
-                cmd.Parameters.AddWithValue("name", bankAccount.Name);
-                cmd.ExecuteNonQuery();
-                con.Close();*/
+                    // Paraeterized Query
+                    /*var query = "insert into BankAccount(Name) values(@name)";
+                    SqlCommand cmd = new SqlCommand(query, con) { CommandType = CommandType.Text };
+                    cmd.Parameters.AddWithValue("name", bankAccount.Name);
+                    cmd.ExecuteNonQuery();
+                    con.Close();*/
 
-                // Stored procedure
-                /*SqlCommand cmd = new SqlCommand("procCreateAccount", con) { CommandType = CommandType.StoredProcedure };
-                cmd.Parameters.Add("@name",SqlDbType.VarChar,50).Value=bankAccount.Name;
-                cmd.ExecuteNonQuery();
-                con.Close();*/
-            }
+                    // Stored procedure
+                    /*SqlCommand cmd = new SqlCommand("procCreateAccount", con) { CommandType = CommandType.StoredProcedure };
+                    cmd.Parameters.Add("@name",SqlDbType.VarChar,50).Value=bankAccount.Name;
+                    cmd.ExecuteNonQuery();
+                    con.Close();*/
+                }
                 return RedirectToAction("Index", new { success = true });
-            /*}
-            return View("Index");*/
+            }
+            return RedirectToAction("Index", new { success = false });
         }
 
         [HttpGet]

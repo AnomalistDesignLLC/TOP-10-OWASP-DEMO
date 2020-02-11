@@ -13,7 +13,7 @@ namespace A1___Demo.Models
         public int? BankAccountId { get; set; }
 
         [Required(ErrorMessage = "Enter Bank Account Name")]
-        [RegularExpression("[a-zA-Z ]+$",ErrorMessage = "Invalid characters")]
+        // [RegularExpression("[a-zA-Z ]+$",ErrorMessage = "Invalid characters")]
         [StringLength(50, ErrorMessage = "Only 50 Characters are Allowed")]
         public string Name { get; set; }
 
