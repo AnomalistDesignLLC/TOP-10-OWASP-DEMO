@@ -32,7 +32,7 @@ GO
 
 -- Open the symmetric key with which to encrypt the data.  
 OPEN SYMMETRIC KEY CreditCardsKey  
-   DECRYPTION BY CERTIFICATE SalesCert;  
+   DECRYPTION BY CERTIFICATE DemoCert;  
 
 -- Encrypt the value in column CardNumber using the  
 -- symmetric key CreditCardsKey.  
