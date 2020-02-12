@@ -192,7 +192,7 @@ using A1___Demo.Models;
             WriteLiteral("    </tbody>\n</table>\n<div class=\"row\">\n    <div class=\"float-lg-right\">\n        ");
             EndContext();
             BeginContext(1594, 78, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad044631ef4d41b4b591b5666c51dbaa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7095f9344a044d528ff31dc1eebee5d1", async() => {
                 BeginContext(1651, 17, true);
                 WriteLiteral("Recreate database");
                 EndContext();

@@ -15,7 +15,7 @@
 </p>
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Register" asp-antiforgery="true">
+        <form asp-action="Index" asp-antiforgery="true">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
             <div class="form-group">
@@ -29,10 +29,6 @@
                 @if (Model.success == true)
                 {
                     <span style="color:red">Account Created!</span>
-                }
-                @if (Model.success == false)
-                {
-                    <span style="color:red">An error occured.</span>
                 }
             </div>
         </form>

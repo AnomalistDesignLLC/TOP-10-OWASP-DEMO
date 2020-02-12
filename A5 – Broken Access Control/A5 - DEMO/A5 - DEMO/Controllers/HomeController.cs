@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace A5___Demo.Controllers
 {
-    [Authorize]
+    // [Authorize]
     public class HomeController : Controller
     {
         [HttpGet]
-        [AllowAnonymous]
+        // [AllowAnonymous]
         public IActionResult Index()
         {
             return View();
