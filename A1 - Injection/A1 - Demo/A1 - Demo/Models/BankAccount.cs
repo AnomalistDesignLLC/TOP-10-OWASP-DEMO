@@ -17,6 +17,6 @@ namespace A1___Demo.Models
         [StringLength(50, ErrorMessage = "Only 50 Characters are Allowed")]
         public string Name { get; set; }
 
-        public bool success = false;
+        public Boolean success = false;
     }
 }

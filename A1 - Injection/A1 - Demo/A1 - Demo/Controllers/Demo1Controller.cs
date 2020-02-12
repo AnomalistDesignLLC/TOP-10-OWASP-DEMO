@@ -22,7 +22,7 @@ namespace A1___Demo.Controllers
             _environment = hostingEnvironment;
         }
 
-        public IActionResult Index(Boolean success)
+        public IActionResult Index(Boolean success = false)
         {
             var BankAccount = new BankAccount();
             BankAccount.success = success;
@@ -31,7 +31,7 @@ namespace A1___Demo.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Register(BankAccount bankAccount)
+        public IActionResult Index(BankAccount bankAccount)
         {
             if (ModelState.IsValid)
             {
@@ -47,7 +47,7 @@ namespace A1___Demo.Controllers
                     cmd.ExecuteNonQuery();
                     con.Close();
 
-                    // Paraeterized Query
+                    // Parameterized Query
                     /*var query = "insert into BankAccount(Name) values(@name)";
                     SqlCommand cmd = new SqlCommand(query, con) { CommandType = CommandType.Text };
                     cmd.Parameters.AddWithValue("name", bankAccount.Name);
@@ -62,7 +62,9 @@ namespace A1___Demo.Controllers
                 }
                 return RedirectToAction("Index", new { success = true });
             }
-            return RedirectToAction("Index", new { success = false });
+            var BankAccount = new BankAccount();
+            BankAccount.success = false;
+            return View(BankAccount);
         }
 
         [HttpGet]

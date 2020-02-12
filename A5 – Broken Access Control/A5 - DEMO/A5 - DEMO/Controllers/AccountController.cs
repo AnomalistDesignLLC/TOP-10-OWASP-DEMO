@@ -39,7 +39,7 @@ namespace A5___Demo.Controllers
         }
 
         [HttpGet]
-        [Authorize(Policy = "CanReadAccount")]
+        // [Authorize(Policy = "CanReadAccount")]
         public IActionResult Index(int id)
         {
             var AccountViewModel = new AccountViewModel();
