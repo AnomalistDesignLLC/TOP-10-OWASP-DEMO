@@ -30,7 +30,7 @@ namespace A6___Exercise1
             services.AddMvc(options =>
             {
                 // Register CustomExceptionFilterAttribute
-                options.Filters.Add(typeof(CustomExceptionFilterAttribute));
+                // options.Filters.Add(typeof(CustomExceptionFilterAttribute));
             }).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.Configure<CookiePolicyOptions>(options =>
