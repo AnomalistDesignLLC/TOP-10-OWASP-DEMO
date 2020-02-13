@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using A10___Exercise1.Filters;
+using System;
 
 namespace A10___Exercise1
 {
@@ -36,7 +37,16 @@ namespace A10___Exercise1
             {
                 //Registering CustomExceptionFilterAttribute
                 options.Filters.Add(typeof(CustomExceptionFilterAttribute));
+            
+                //registered Audit Filter
+                options.Filters.Add(typeof(AuditFilter));
             }).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+        
+            // For Setting Session Timeout
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,6 +61,8 @@ namespace A10___Exercise1
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
             }
+
+            app.UseSession();
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();

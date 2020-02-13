@@ -31,3 +31,4 @@ c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A10 - Insu
 c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A10 - Insufficient Logging & Monitoring\A10 - Exercise1\A10 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Demo2\Index.cshtml.g.cs
 c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A10 - Insufficient Logging & Monitoring\A10 - Exercise1\A10 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A10 - Insufficient Logging & Monitoring\A10 - Exercise1\A10 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+c:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A10 - Insufficient Logging & Monitoring\A10 - Exercise1\A10 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Errorview\Error.cshtml.g.cs
