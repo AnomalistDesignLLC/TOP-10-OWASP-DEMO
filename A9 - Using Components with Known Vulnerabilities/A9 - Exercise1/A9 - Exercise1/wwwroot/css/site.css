@@ -35,3 +35,56 @@ body {
         display: none;
     }
 }
+
+html {
+    height: 100%;
+  }
+  
+  body {
+    background: #ff8800 linear-gradient(transparent, rgba(100,0,0,0.3)) fixed;
+    color: #333;
+    margin: 1em;
+  }
+  
+  h1 {
+    color: black;
+  }
+  
+  hr {
+    border: 1px solid #ffaa00;
+  }
+  
+  a {
+    color: #ffff33;
+  }
+  
+  #wrap {
+    max-width: 500px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  form {
+    margin-bottom: 2em;
+  }
+  
+  code {
+    font-weight: normal;
+    color: #800;
+  }
+  
+  h3 {
+  
+  }
+  
+  .info {
+    font-size: 0.8em;
+  }
+  
+  .out {
+    min-height: 80px;
+    border: 1px solid silver;
+    background: #ddd;
+    margin-bottom: 2em;
+    color: #888;
+  }

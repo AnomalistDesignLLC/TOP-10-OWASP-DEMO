@@ -1,0 +1,3 @@
+curl -i -X POST -H "Content-Type: application/json" -d "{\"Name\":\"GComp1\"}" http://localhost:5000/api/Stock
+
+curl -i -X POST -H "Content-Type: application/json" -d "{\"Name\":\"GComp1' or 1=1 --\"}" http://localhost:5000/api/Stock

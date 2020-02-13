@@ -1,0 +1,85 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - A8___Demo</title>
+        <link rel="stylesheet" href="~/css/site.css">
+        <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" asp-append-version="true" />
+    </head>
+    <body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a asp-controller="Home" asp-action="Index" class="navbar-brand">A8___Demo</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a asp-controller="Dashboard" asp-action="Index">Dashboard</a></li>
+                            <li><a asp-controller="Private" asp-action="Index">Private page</a></li>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <li><a asp-controller="Admin" asp-action="Index">Admin page</a></li>
+                            }
+                            @if (User.Identity.Name == "matthew@example.com")
+                            {
+                                <li><a asp-controller="Account" asp-action="Index" asp-route-id="1">My account</a></li>
+                            }
+                            else
+                            {
+                                <li><a asp-controller="Account" asp-action="Index" asp-route-id="2">My account</a></li>
+                            }
+                        </ul>
+                        @await Html.PartialAsync("_LoginPartial")
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a asp-controller="Home" asp-action="Index" class="navbar-brand">A8___Demo</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        </ul>
+                        @await Html.PartialAsync("_LoginPartial")
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="container body-content">
+            <br /><br /><br />
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; 2020 - A8___Demo</p>
+            </footer>
+        </div>
+
+        <script src="//ajax.aspnetcdn.com/ajax/jquery/jquery-2.1.4.min.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/bootstrap/3.3.5/bootstrap.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

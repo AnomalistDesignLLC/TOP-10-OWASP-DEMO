@@ -2877,8 +2877,8 @@
   "RootNamespace": "A7 - Exercise1",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Demo2\\Index.cshtml",
-      "TargetPath": "Views\\Demo2\\Index.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Blog\\Delete.cshtml",
+      "TargetPath": "Views\\Blog\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2897,13 +2897,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Blog\\Edit.cshtml",
+      "TargetPath": "Views\\Blog\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Demo1\\Index.cshtml",
-      "TargetPath": "Views\\Demo1\\Index.cshtml",
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Blog\\Index.cshtml",
+      "TargetPath": "Views\\Blog\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Blog\\Create.cshtml",
+      "TargetPath": "Views\\Blog\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2914,6 +2924,11 @@
     {
       "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A7 - Cross-Site Scripting (XSS)\\A7 - Exercise1\\A7 - Exercise1\\Views\\Blog\\Details.cshtml",
+      "TargetPath": "Views\\Blog\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

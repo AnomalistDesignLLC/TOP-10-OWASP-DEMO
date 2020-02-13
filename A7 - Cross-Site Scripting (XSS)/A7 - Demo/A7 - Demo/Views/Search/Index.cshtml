@@ -1,0 +1,14 @@
+﻿@model A7___Demo.Models.Search
+@{
+    ViewData["Title"] = "Search Page";
+}
+
+<h1>Search Results</h1>
+@if (Model.message == "Free Laptops") {
+    <span>Showing 1-1 of 1 item</span>
+}
+<hr />
+<h4>@Html.Raw(Model.message)</h4>
+@if (Model.message == "Free Laptops") {
+    <span>Brand new free laptops with no cost</span>
+}
