@@ -37,7 +37,7 @@ namespace A8___Exercise1.Controllers
         public DataTable GetStock(StockTbInput stockTbInput)
         {
             DataTable dt = new DataTable();
-            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;"))
+            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=OWASP;Integrated Security=True;"))
             {
 
                 con.Open();

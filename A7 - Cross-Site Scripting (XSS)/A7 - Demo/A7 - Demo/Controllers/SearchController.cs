@@ -48,7 +48,7 @@ namespace A7___Demo.Controllers
         [HttpGet]
         public IActionResult RecreateDatabase()
         {
-            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
             using (SqlConnection con = new SqlConnection(connection))
             {
                 con.Open();
