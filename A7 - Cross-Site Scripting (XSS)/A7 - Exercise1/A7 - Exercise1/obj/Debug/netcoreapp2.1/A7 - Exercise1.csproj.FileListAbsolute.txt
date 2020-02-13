@@ -1,0 +1,36 @@
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\A7 - Exercise1.deps.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\A7 - Exercise1.runtimeconfig.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\A7 - Exercise1.runtimeconfig.dev.json
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\A7 - Exercise1.dll
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\A7 - Exercise1.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\A7 - Exercise1.Views.dll
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\bin\Debug\netcoreapp2.1\A7 - Exercise1.Views.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.csprojAssemblyReference.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.RazorAssemblyInfo.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.RazorAssemblyInfo.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.AssemblyInfoInputs.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.AssemblyInfo.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.TagHelpers.input.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.TagHelpers.output.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.RazorCoreGenerate.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.RazorTargetAssemblyInfo.cache
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.RazorTargetAssemblyInfo.cs
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.Views.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.dll
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.pdb
+C:\Users\Ken\Documents\work\anomalist\nobleprog\TOP-10-OWASP-DEMO-DEV\A7 - Cross-Site Scripting (XSS)\A7 - Exercise1\A7 - Exercise1\obj\Debug\netcoreapp2.1\A7 - Exercise1.csproj.CopyComplete

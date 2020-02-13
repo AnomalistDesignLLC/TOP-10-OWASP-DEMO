@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Demo";
+}
+
+<div id="wrap">
+  <h1>XSS vulnerabilities in jQuery DOM methods</h1>
+  
+  <hr/>
+  
+  <h3>Input</h3>
+  <form>
+    <input id="test" placeholder="Enter malicious input here" size="30" value="<script>alert('XSS injected!');</script>" />
+    <br><input id="unsecured" type="button" value="Submit Unsecured" />
+    <input id="secured" type="button" value="Submit Secured" />
+  </form>
+  
+  <hr/>
+
+  <h3>Output (native <code>innerHTML</code>)</h3>
+  <p class="info">The <a href="http://www.w3.org/TR/2008/WD-html5-20080610/dom.html#innerhtml0" target="_blank">HTML5 spec</a> states that script tags inserted via <code>innerHTML</code> will not be executed.</p>
+  <div class="out" id="output-inner">
+    Nothing should appear here...
+  </div>
+
+  <h3>Output (<code>$.html()</code>)</h3>
+  <p class="info">jQuery DOM methods strip and <code>eval()</code> any script tags passed in, exposing an XSS vulnerability.</p>
+  <div class="out" id="output-html">
+    Injection goes here...
+  </div>
+
+  <h3>Output (<code>$.text()</code>)</h3>
+  <p class="info">This method treats the passed string as a textNode, preventing it from being executed by the browser.</p>
+  <div class="out" id="output-text">
+    Escaped text goes here...
+  </div>
+</div>
+
+<script>
+    $('#unsecured').click(function(e) {
+        e.preventDefault();
+        
+        var ov = $('#test').val();
+        
+        $('#output-inner').get(0).innerHTML = ov;
+        $('#output-html').html(ov);
+        $('#output-text').text(ov);
+    });
+    $('#secured').click(function(e) {
+        e.preventDefault();
+        
+        var ov = $('#test').val();
+
+        ov = hoganEscape(ov);
+        
+        $('#output-inner').get(0).innerHTML = ov;
+        $('#output-html').html(ov);
+        $('#output-text').text(ov);
+    });
+    function coerceToString(val) {
+        return String((val === null || val === undefined) ? '' : val);
+    }
+    function hoganEscape(str) {
+        str = coerceToString(str);
+        var rAmp = /&/g,
+            rLt = /</g,
+            rGt = />/g,
+            rApos = /\'/g,
+            rQuot = /\"/g,
+            hChars = /[&<>\"\']/;
+        return hChars.test(str) ?
+            str
+                .replace(rAmp, '&amp;')
+                .replace(rLt, '&lt;')
+                .replace(rGt, '&gt;')
+                .replace(rApos, '&#39;')
+                .replace(rQuot, '&quot;') :
+            str;
+    }
+</script>
