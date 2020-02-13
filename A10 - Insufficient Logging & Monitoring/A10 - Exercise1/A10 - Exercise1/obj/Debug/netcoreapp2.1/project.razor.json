@@ -2920,6 +2920,11 @@
       "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A10 - Insufficient Logging & Monitoring\\A10 - Exercise1\\A10 - Exercise1\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ken\\Documents\\work\\anomalist\\nobleprog\\TOP-10-OWASP-DEMO-DEV\\A10 - Insufficient Logging & Monitoring\\A10 - Exercise1\\A10 - Exercise1\\Views\\Errorview\\Error.cshtml",
+      "TargetPath": "Views\\Errorview\\Error.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
