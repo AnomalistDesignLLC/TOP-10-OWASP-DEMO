@@ -80,7 +80,7 @@ namespace A1___Exercise.Controllers
         [HttpGet("RecreateDatabase")]
         public IActionResult RecreateDatabase()
         {
-            var connection = "Data Source=.;Initial Catalog=OWASP;Integrated Security=True;";
+            var connection = "Data Source=.;Initial Catalog=OWASP;User ID=sa;Password=QI7OWv38MLwP2M2S;";
             using (SqlConnection con = new SqlConnection(connection))
             {
                 con.Open();
