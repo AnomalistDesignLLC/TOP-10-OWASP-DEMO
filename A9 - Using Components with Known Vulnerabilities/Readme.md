@@ -429,31 +429,3 @@
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 214.53px;">![](images/image5.png)</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 393.47px;">![](images/image7.png)</span>
-
-<span class="c1"></span>
-
-<div class="c32">
-
-[[a]](#cmnt_ref1)<span class="c0">+mark.raymer@anomalistdesign.com I'm editing this "just in case" I need it. I notice he talks about Shodon here and maybe you can take this as an idea for an example in OSINT?</span>
-
-<span class="c0">_Assigned to Mark Raymer_</span>
-
-</div>
-
-<div class="c32">
-
-[[b]](#cmnt_ref2)<span class="c0">this one may be hard to replicate.</span>
-
-</div>
-
-<div class="c32">
-
-[[c]](#cmnt_ref3)<span class="c0">no demo for the red lines</span>
-
-</div>
-
-<div class="c32">
-
-[[d]](#cmnt_ref4)<span class="c0">+pete@anomalistdesign.com I do not share his confidence that pay equals secure.  I think I'd like that blunted here.</span>
-
-</div>
